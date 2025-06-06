@@ -24,4 +24,4 @@ The game continues until the player guesses the code or exits manually.
 
 ```bash
 git clone https://github.com/Manazd/MastermindGame-swift.git
-cd mastermind-swift
+cd MastermindGame-swift
